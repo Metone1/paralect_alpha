@@ -1,0 +1,25 @@
+.no_rep {
+    width: 243px;
+    height: 165px;
+    margin: 197px 351px;
+}
+
+.no_rep .img {
+    position: relative;
+    top: 24px;
+    left: 84px;
+    width: 76px;
+    height: 62px;
+}
+
+.no_rep .p {
+    position: relative;
+    top: calc(134px - 62px);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    color: #808080;
+}

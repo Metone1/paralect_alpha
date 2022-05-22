@@ -1,0 +1,31 @@
+.user_nf {
+    background-color: #E5E5E5;
+    height: calc(768px - 72px);
+}
+
+.div_block {
+    position: relative;
+    width: 156px;
+    height: 165px;
+    top: 212px;
+}
+
+.user_img {
+    display: block;
+    width: 65px;
+    height: 75px;
+    position: relative;
+    top: 17px;
+}
+
+.user_p {
+    width: 156px;
+    height: 31px;
+    position: relative;
+    top: calc(134px - 75px);
+    font-family: 'Inter';
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    color: #808080;
+}

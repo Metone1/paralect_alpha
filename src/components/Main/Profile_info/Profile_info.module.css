@@ -1,0 +1,69 @@
+.profile_info {
+    width: 292px;
+    height: 432px;
+    position: relative;
+    top: 40px;
+}
+
+.photo {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+}
+
+.user_name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 130%;
+    position: relative;
+    top: 25px;
+}
+
+.a {
+    position: relative;
+    top: 37px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0064EB;
+    text-decoration: none;
+}
+
+.follow {
+    position: relative;
+    top: 67px;
+}
+
+.follow p {
+    display: inline;
+    position: relative;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.followers {
+    left: 9px;
+}
+
+.following {
+    left: 40px;
+}
+
+.person {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 29px;
+}
+
+.group {
+    width: 22px;
+    height: 14px;
+}

@@ -1,0 +1,40 @@
+.header {
+    background-color: #0064EB;
+    height: 72px;
+}
+
+.logo {
+    color: #fff;
+    width: 40.98px;
+    height: 40px;
+    position: relative;
+    left: 41px;
+    top: 16px;
+}
+
+.search {
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    height: 40px;
+    width: 500px;
+    border: none;
+    position: relative;
+    left: 104px;
+    top: -28px;
+    outline: none;
+    padding-left: 44px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.search_img {
+    width: 14px;
+    height: 14px;
+    position: relative;
+    left: 82px;
+    z-index: 1000;
+    top: 2px;
+}
+
+@media (max-width: 768px) {}

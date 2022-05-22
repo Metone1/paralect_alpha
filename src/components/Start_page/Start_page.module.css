@@ -1,0 +1,30 @@
+.start_page {
+    background-color: #E5E5E5;
+    height: calc(768px - 72px);
+}
+
+.div_block {
+    width: 210px;
+    height: 196px;
+    position: relative;
+    top: 197px;
+}
+
+.search {
+    display: block;
+    width: 64px;
+    position: relative;
+    top: 23px;
+}
+
+.start_page .p {
+    width: 210px;
+    height: 62px;
+    position: relative;
+    top: calc(134px - 64px);
+    font-family: 'Inter';
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    color: #808080;
+}

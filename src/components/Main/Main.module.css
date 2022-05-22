@@ -1,0 +1,6 @@
+.main {
+    background-color: #E5E5E5;
+    height: calc(768px - 72px);
+    display: grid;
+    grid-template-columns: 400px 966px;
+}
