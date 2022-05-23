@@ -5,7 +5,7 @@ const Repository_empty = () => {
     return (
         <div className={styles.no_rep}>
             <img className={styles.img} src={no_rep} alt="no_rep" />
-            <p className={styles.p}>Repositoru list is empty</p>
+            <p className={styles.p}>Repository list is empty</p>
         </div>
     );
 }
