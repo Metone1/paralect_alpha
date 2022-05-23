@@ -32,7 +32,6 @@ const Repositories = ({ repositories }) => {
     }
 
     const mapRepositories = currentItems.map(rep => {
-        console.log(rep)
         return (
             <div className={styles.rep_list} key={rep.id}>
                 <a target='_blank' href={rep.html_url}>{rep.name}</a>
